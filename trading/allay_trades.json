@@ -1,0 +1,22 @@
+{
+	"tiers": [
+		{
+			"trades": [
+				{
+					"wants": [
+						{
+                            "item": "minecraft:cookie",
+                            "quantity": 10
+                        }
+					],
+					"gives": [
+						{
+                            "item": "demondev:allay_sword",
+                            "quantity": 1
+                        }
+					]
+				}
+			]
+		}
+	]
+}

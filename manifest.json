@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "DemonDev"
+        ]
+    },
+    "header": {
+        "name": "Minecraft But You Can Trade With Any Mob",
+        "description": "This Addon Allows You To Trade With Any Mob In Minecraft",
+        "min_engine_version": [
+            1,
+            20,
+            40
+        ],
+        "uuid": "8326cd43-65d3-4903-a615-489bf96874ff",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "This Addon Allows You to Trade With Any Mob",
+            "uuid": "9dc99d35-a606-459d-b9af-782c349e9db1",
+            "type": "data",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "2f4fae58-cbb8-4d14-8c8f-53f350ec1f1d",
+            "version":[
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
